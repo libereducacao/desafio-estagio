@@ -2,7 +2,6 @@
 
 ## Index
 
-- [Desafio React Native - Liber](#Desafio-React-Native---Liber)
 - [**Descrição**](#Descri%C3%A7%C3%A3o)
 - [**Apresentação**](#Apresenta%C3%A7%C3%A3o)
 - [**Avaliação**](#Avalia%C3%A7%C3%A3o)
